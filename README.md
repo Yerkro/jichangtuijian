@@ -38,77 +38,77 @@
 <td>不限设备/客户端</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/quanqiu](https://n3oplhjnm.quanqiugttt1.club/#/?code=WXLkPuQg)" rel="nofollow">全球云</a></td>
+<td><a href="https://n3oplhjnm.quanqiugttt1.club/#/?code=WXLkPuQg" rel="nofollow">全球云</a></td>
 <td>¥20/月，120GB</td>
 <td>¥99/年每月59GB；¥100不限时100GB</td>
 <td>BGP 优化、独享出口、Shadowsocks</td>
 <td>不限设备</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/dage](https://aff01.zygbx.com/#/register?code=ZMbsA14c)" rel="nofollow">大哥云</a></td>
+<td><a href="https://aff01.zygbx.com/#/register?code=ZMbsA14c" rel="nofollow">大哥云</a></td>
 <td>¥19.90/月，100GB</td>
 <td>¥69/季每月200GB；¥199/年每月300GB</td>
 <td>Trojan，500—1000Mbps 档位</td>
 <td>未注明</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/dengta](https://dengta.feishu-open.com/register?code=HodIBpMw)" rel="nofollow">灯塔 CLOUD</a></td>
+<td><a href="https://dengta.feishu-open.com/register?code=HodIBpMw" rel="nofollow">灯塔 CLOUD</a></td>
 <td>¥69.99/季，每月80GB</td>
 <td>¥119.99/季每月400GB；¥650不限时1TB</td>
 <td>三线 IEPL、流媒体解锁</td>
 <td>本人设备不限</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/erwan](https://ewanwtt.net/auth/register?code=ps6Xxo)" rel="nofollow">尔湾云</a></td>
+<td><a href="https://ewanwtt.net/auth/register?code=ps6Xxo" rel="nofollow">尔湾云</a></td>
 <td>¥24.99/月，100GB</td>
 <td>¥49.99/月350GB；¥119.99/月1.2TB</td>
 <td>中转线路；另有美国住宅 IP 套餐</td>
 <td>2—10 台</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/jifeng](https://j134.net/?code=BE2X)" rel="nofollow">疾风云 JFCLOUD</a></td>
+<td><a href="https://j134.net/?code=BE2X" rel="nofollow">疾风云 JFCLOUD</a></td>
 <td>¥24.99/月，100GB</td>
 <td>¥49.99/月350GB；¥119.99/月1.2TB</td>
 <td>Clash/SSR/V2Ray、中转、部分 IPLC</td>
 <td>3—10 台</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/yangfan](https://ml.yfqz1.net/register?code=Bh4amnmL)" rel="nofollow">扬帆云</a></td>
+<td><a href="https://ml.yfqz1.net/register?code=Bh4amnmL" rel="nofollow">扬帆云</a></td>
 <td>¥19.99/月，100GB</td>
 <td>¥49.99/月700GB；¥88.99/月1.2TB</td>
 <td>标准节点、部分/全部 IEPL 分档</td>
 <td>2—8 台</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/youxin](https://www.youxin66.net/#/register?code=dxAsMoig)" rel="nofollow">优信云</a></td>
+<td><a href="https://www.youxin66.net/#/register?code=dxAsMoig" rel="nofollow">优信云</a></td>
 <td>¥19.99/月，100GB</td>
 <td>¥49.99/月700GB；¥88.99/月1.2TB</td>
 <td>普通节点与 IPLC 分档</td>
 <td>2—6 台；部分不限</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/keke](https://coweb.jjjxgc.com/#/register?code=VIqppzHP)" rel="nofollow">可可云</a></td>
+<td><a href="https://coweb.jjjxgc.com/#/register?code=VIqppzHP" rel="nofollow">可可云</a></td>
 <td>¥20/月，100GB</td>
 <td>¥40/月300GB；¥199/年588GB总量</td>
 <td>IEPL、流媒体与 AI</td>
 <td>2—4 台</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/laomao](https://www.laomaourl.com?path=register&code=IlKXctUd)" rel="nofollow">老猫云</a></td>
+<td><a href="https://www.laomaourl.com?path=register&code=IlKXctUd" rel="nofollow">老猫云</a></td>
 <td>¥45/季，每月50GB</td>
 <td>¥40/月300GB；¥50/月500GB</td>
 <td>IEPL、流媒体、UDP</td>
 <td>未注明</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/boostnet](https://999.boostnet1.com/register?code=q7hZUrEr)" rel="nofollow">BoostNet</a></td>
+<td><a href="https://999.boostnet1.com/register?code=q7hZUrEr" rel="nofollow">BoostNet</a></td>
 <td>¥200/年，每月20GB</td>
 <td>¥49/月200GB；¥129/月1TB</td>
 <td>专线、流媒体与 AI、提供客户端</td>
 <td>常规档 5 台</td>
 </tr>
 <tr>
-<td><a href="[https://aff.kitdude.com/dove](https://delinkaf.cc/a.php?ajatUti5BR2jsUx2D)" rel="nofollow">DOVE</a></td>
+<td><a href="https://delinkaf.cc/a.php?ajatUti5BR2jsUx2D" rel="nofollow">DOVE</a></td>
 <td>¥21.99/月，100GB</td>
 <td>¥39.99/月300GB；¥160/月1TB</td>
 <td>共享/独享带宽分档，流媒体与 AI</td>
